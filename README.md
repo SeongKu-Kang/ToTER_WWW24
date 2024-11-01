@@ -10,7 +10,7 @@ We introduce a new plug-and-play ToTER framework which improves PLM-based retrie
     <img src="https://seongku-kang.github.io/images/C19.png" width="100%"/>
 <p>
 
-#### (Training phase) Taxonomy-guided topic Class relevance learning
+#### (Training phase) Taxonomy-guided topic class relevance learning
 The taxonomy reveals the latent structure of the whole corpus.
 To exploit it for retrieval, we first connect the corpus-level knowledge to individual documents.
 We formulate this step as an unsupervised multi-label classification, assessing the relevance of each document to each topic class without document-topic labels.
